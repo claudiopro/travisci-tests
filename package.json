@@ -1,0 +1,25 @@
+{
+  "name": "travisci-tests",
+  "version": "1.0.0",
+  "description": "Tests for integration with Travis CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiopro/travisci-tests.git"
+  },
+  "keywords": [
+    "travis",
+    "travisci",
+    "test",
+    "ci"
+  ],
+  "author": "Claudio Procida <claudio.procida@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiopro/travisci-tests/issues"
+  },
+  "homepage": "https://github.com/claudiopro/travisci-tests#readme"
+}
